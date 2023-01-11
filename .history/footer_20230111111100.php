@@ -60,7 +60,7 @@
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p class="text-right">
-						Copyright &copy; <?php echo date("Y"); ?>, Your awesome name here<br> 
+						Copyright &copy; <?php, Your awesome name here<br> 
 						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> </p>
 				</div>
 			</div>
